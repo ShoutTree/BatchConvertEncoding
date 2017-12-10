@@ -1,0 +1,1 @@
+python main.py /Volumes/macPartition/xzeng/website/zzhzbbs.zjol.com.cn_1424_end /Volumes/macPartition/xzeng/website/zzhzbbs.zjol.com.cn_1424_end_utf8/
